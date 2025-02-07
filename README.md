@@ -12,6 +12,7 @@ Topics covered include
 • Neural networks and time series neural network models 
 • Clustering and other unsupervised learning models 
 • Reinforcement learning 
+
 Course Schedule  
 Week 1: Sept 3, 2024  Week 14: Dec 10, 2024   
 1. 09/03 How is Machine Learning used in finance 
@@ -28,7 +29,7 @@ Week 1: Sept 3, 2024  Week 14: Dec 10, 2024
 12. 11/19 Reinforcement Learning  
 13. 12/03 Reinforcement Learning (no class on 11/26) 
 14. 12/10 Project presentations (completed projects in pdf format due 12/15) 
-15.  
+
 Core Readings:  
 1. Hao Ni, Xin Dong, Jinsong Zheng, Guangxi Yu, Introduction To Machine Learning In Quantitative Finance, 
 An (Advanced Textbooks In Mathematics), World Scientific, 2021
